@@ -1,4 +1,4 @@
-AirBnb - Home Away From Home
+Airbnb - Home Away From Home
 ============================
 
 ## The Team
