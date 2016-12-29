@@ -69,7 +69,7 @@ pip install gmaps
 
  We have used few third party APIs to obtain required information. All these APIs require an account to be setup for generating the access key to start using their service. All the services are unpaid  and have restrictions on the number of API calls per day.
 
- | API Name      | Purpose                                                                           | Resource                                                                           |
+| API Name      | Purpose                                                                           | Resource                                                                           |
 |---------------|-----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | Google Maps   | Displays inline maps with location marker and nearby listings.                    | [Google Maps API](https://developers.google.com/maps/documentation/javascript/)    |
 | Yelp          | Obtains nearby places of interest for the input location. .                       | [Yelp API](https://www.yelp.com/developers/v2/manage_api_keys)                     |
